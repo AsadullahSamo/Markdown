@@ -1,0 +1,1 @@
+- Ctrl+Shift+P to open Command pallete and type "Markdown Open Preview to the Side", press Enter, and now we have live preview of our markdown file side by side with our file
